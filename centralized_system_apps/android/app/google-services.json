@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096752220273",
+    "project_id": "centralizedsystem-c0e92",
+    "storage_bucket": "centralizedsystem-c0e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096752220273:android:ab4ff61c505f3f86b833d0",
+        "android_client_info": {
+          "package_name": "com.example.centralized_system_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096752220273-5luc9hb04lpqhhqsksfaf34jbuuf0rh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.centralized_system_apps",
+            "certificate_hash": "39c448379565bf8ee4f8038fe4db1a0772055f7b"
+          }
+        },
+        {
+          "client_id": "1096752220273-l6q4mom2ufha1f33hhbum2euda32u64d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1BjpzwZzLgLXuRuQYy8QWQa5vbRHY7Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096752220273-l6q4mom2ufha1f33hhbum2euda32u64d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
